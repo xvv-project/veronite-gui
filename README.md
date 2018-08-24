@@ -1,4 +1,9 @@
-t# Veronite GUI Wallet
+# Veronite GUI Wallet
+
+
+WARNING!: THIS IS A ALPHA WALLET (TEMPORARY) GUI.
+We are working on finishing the official GUI, but for now we decided that this GUI is better than NO GUI.
+
 
 This is a fork of the **Sumokoin GUI Wallet**: https://github.com/sumoprojects/SumoGUIWallet
 It is changed to be compatible with Veronite.
