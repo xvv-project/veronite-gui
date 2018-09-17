@@ -8,6 +8,10 @@ We are working on finishing the official GUI, but for now we decided that this G
 This is a fork of the **Sumokoin GUI Wallet**: https://github.com/sumoprojects/SumoGUIWallet
 It is changed to be compatible with Veronite.
 
+1. Ez Set up for Ubuntu ( Tested on Ubuntu 16.04 )
+	* Run:
+		
+			./xvv-setup.sh
 
 1. Install dependencies (with Python 2.7):
 
